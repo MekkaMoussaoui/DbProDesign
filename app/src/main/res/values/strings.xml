@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DatabasePro</string>
+    <string name="setting">Setting</string>
+    <string name="search">Search</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="log_out">Log out</string>
+    <string name="aboutus">About us</string>
+</resources>
